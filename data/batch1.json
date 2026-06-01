@@ -1,0 +1,73 @@
+{
+  "name_en": "LAPALMA Beauty House",
+  "name_ar": "لا بالما بيوتي هاوس",
+  "rating": 4.5,
+  "review_count": 2146,
+  "type_en": "Beauty salon",
+  "type_ar": "صالون تجميل",
+  "ownership": "women-owned",
+  "address": {
+    "full_en": "Uthman Ibn Affan Rd, 8113 2169, King Abdullah, Riyadh 12451, Saudi Arabia",
+    "full_ar": "طريق عثمان بن عفان، الملك عبدالله، الرياض 12451",
+    "street": "Uthman Ibn Affan Rd",
+    "district_en": "King Abdullah",
+    "district_ar": "الملك عبدالله",
+    "city": "Riyadh",
+    "postal_code": "12451",
+    "country": "Saudi Arabia",
+    "plus_code": "PPXF+V5 King Abdullah Dt., Riyadh Saudi Arabia"
+  },
+  "phone": "+966 53 008 6551",
+  "links": {
+    "booking": "https://fresha.com",
+    "services": "https://linktr.ee/lapal"
+  },
+  "hours": {
+    "monday": { "open": "14:00", "close": "22:30" },
+    "tuesday": { "open": "14:00", "close": "22:30" },
+    "wednesday": { "open": "14:00", "close": "19:00" },
+    "thursday": { "open": "14:00", "close": "22:30" },
+    "friday": { "open": "14:00", "close": "22:30" },
+    "saturday": { "open": "14:00", "close": "22:30" },
+    "sunday": "closed"
+  },
+  "rating_distribution": {
+    "5_star": 1769,
+    "4_star": 74,
+    "3_star": 42,
+    "2_star": 46,
+    "1_star": 215
+  },
+  "review_topics": [
+    {"topic_en": "dye", "topic_ar": "صبغ", "count": 255},
+    {"topic_en": "blow dry", "topic_ar": "تجفيف", "count": 107},
+    {"topic_en": "hygiene", "topic_ar": "نظافة", "count": 61},
+    {"topic_en": "lashes", "topic_ar": "رموش", "count": 48},
+    {"topic_en": "highlights", "topic_ar": "هايلايتس", "count": 41},
+    {"topic_en": "specialist ghadi", "topic_ar": "أخصائية غدي", "count": 28}
+  ],
+  "negative_reviews_summary": [
+    {"author": "R H SH", "rating": 1, "summary_en": "Bad experience, lack of responsibility and customer appreciation", "summary_ar": "تجربة سيئة، عدم مسؤولية ولا تقدير للعميل"},
+    {"author": "sara aldurayan", "rating": 1, "summary_en": "Very bad customer service and issue with extension dye", "summary_ar": "خدمة عملاء سيئة جداً ومشكلة في صبغة اللاكستنشن"},
+    {"author": "A T", "rating": 1, "summary_en": "Bad customer service, high prices, and differential treatment of niqab-wearing women", "summary_ar": "خدمة عملاء سيئة، أسعار مرتفعة، وتعامل متباين مع المنقبات"}
+  ],
+  "peak_hours_monday": [
+    {"time": "06:00-13:00", "percentage": 0},
+    {"time": "14:00", "percentage": 40},
+    {"time": "15:00", "percentage": 58},
+    {"time": "16:00", "percentage": 69},
+    {"time": "17:00", "percentage": 79},
+    {"time": "18:00", "percentage": 74},
+    {"time": "19:00", "percentage": 82},
+    {"time": "20:00", "percentage": 96},
+    {"time": "21:00", "percentage": 100},
+    {"time": "22:00", "percentage": 91},
+    {"time": "23:00", "percentage": 0}
+  ],
+  "similar_places": [
+    {"name": "LaPalma Boutique", "rating": 4.8, "review_count": 140, "type_en": "Beauty salon"},
+    {"name": "Lama Beauty Salon صالون لمى بيوتي", "rating": 3.8, "review_count": 240, "type_en": "Beauty salon"},
+    {"name": "Bab ElAnaka Barbershop", "rating": 4.9, "review_count": 978, "type_en": "Hair salon"},
+    {"name": "Aroma Spa", "rating": 4.9, "review_count": 519, "type_en": "Beauty salon"}
+  ]
+}
